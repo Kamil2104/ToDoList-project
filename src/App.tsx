@@ -1,8 +1,6 @@
 function App() {
   return (
-    <section>
-        <h1>AA</h1>
-    </section>
+    <h1 className="text-red-800 text-4xl font-bold">AA</h1>
   )
 }
 
